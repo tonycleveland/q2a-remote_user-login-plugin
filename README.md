@@ -2,6 +2,8 @@
 
 This project is the **REMOTE_USER Plugin** for the [Question 2 Answer](http://www.question2answer.org) project. Question 2 Answer is a StackOverflow clone.
 
+## This is a work in progress
+
 **Plugin ver 1.5 tested with Q2A ver. 1.5**
 
 Use the Switch Tags link (above) to choose a version.
