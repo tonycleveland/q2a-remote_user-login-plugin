@@ -1,6 +1,6 @@
-#  Question 2 Answer Proxy SSO Plugin
+#  Question 2 Answer REMOTE_USER Login Plugin
 
-This project is the **Proxy SSO Plugin** for the [Question 2 Answer](http://www.question2answer.org) project. Question 2 Answer is a StackOverflow clone.
+This project is the **REMOTE_USER Plugin** for the [Question 2 Answer](http://www.question2answer.org) project. Question 2 Answer is a StackOverflow clone.
 
 **Plugin ver 1.5 tested with Q2A ver. 1.5**
 
@@ -148,13 +148,12 @@ Use the [Question2Answer Q&A site](http://www.question2answer.org/qa/)
 
 * Gideon Greenspan for Question2Answer
 * Tim Gunter for the [Vanilla Forums Proxyconnect plugin.](http://vanillaforums.org/addon/472/proxyconnect) This plugin is based on the Vanilla Forums plugin.
+* Larry Kluger of the [Question-2-Answer-Proxy-SSO-Plugin] https://github.com/larrykluger/Question-2-Answer-Proxy-SSO-Plugin. This plugin is based on the Proxy SSO Plugin.
 
 ## License 
 
 GPL v2
 
 ## Change log
-* Q2A 1.5 includes flash css rule.
-* For Q2A 1.4.1 compatibility: No longer need most patch files. Added widget to handle the flash messages.
-* Plugin v 1.4.1.1: The plugin no longer requires patches to the core q2a software! Thank you Gidi for the pointers.
+* 
 
